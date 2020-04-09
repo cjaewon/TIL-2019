@@ -1,6 +1,10 @@
 # TIL ( Today I Learned )
 📅 매일마다 배운 거나 알게된 것을 글로 정리
 
+## JavaScript
+
+* [Canvas - 사용법과 팁](https://github.com/cjaewon/TIL/blob/master/JavaScript/canvas.md)
+
 ## Node 
 
 * [Serverless - 사용법과 활용](https://github.com/cjaewon/TIL/blob/master/Node/serverless.md)
