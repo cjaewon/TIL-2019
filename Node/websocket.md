@@ -126,10 +126,12 @@ module.exports = (ws, id, socketData) => {
   const data = response.data; // 데이터
 
   switch (name) {
-    case 'join':
+    case 'join': { // 스코프 때문에 대괄호를 사용한다.
       const body = { a: '123', b: '234' };
       ws.send(bind('hello', body));
+
       break;
+    }
   }
 };
 ```
