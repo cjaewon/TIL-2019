@@ -6,3 +6,5 @@
 #### 페이지를 이동했을때도 network 정보 유지하기
 위에 Preserve log를 체크하여 켜준다.  
 [자세한 정보 확인](https://stackoverflow.com/questions/10987453/how-to-use-chromes-network-debugger-with-redirects)
+
+### ⬆️ 웹소켓 데이터 확인

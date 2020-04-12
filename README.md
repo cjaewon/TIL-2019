@@ -5,6 +5,10 @@
 
 * [Canvas - 사용법과 팁](https://github.com/cjaewon/TIL/blob/master/JavaScript/canvas.md)
 
+## TypeScript
+
+* [D.TS - 작성법 정리](https://github.com/cjaewon/TIL/blob/master/TypeScript/d.ts.md)
+
 ## Node 
 
 * [Serverless - 사용법과 활용](https://github.com/cjaewon/TIL/blob/master/Node/serverless.md)
