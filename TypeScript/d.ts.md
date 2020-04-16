@@ -23,3 +23,27 @@ declare module '모듈 이름' {
   }
 }
 ```
+### ⚽️ default는 class고 다른 변수들이 포함 되어 있을 때
+
+```ts
+declare module '모듈 이름' {
+  export default class Koa {
+    static mail: string;
+    static server: string;
+
+    helloworld(): void;
+  }
+}
+```
+
+위 코드는 밑에 처럼 사용 할 수 있다.
+```ts
+import asdf from '모듈 이름';
+
+console.log(asdf.mail);
+console.log(asdf.server);
+
+const a = new asdf();
+
+a.helloworld()
+```
