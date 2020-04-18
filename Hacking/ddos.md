@@ -34,5 +34,15 @@ DDOS 공격은 DOS 공격의 업그레이드판이다.
 DDOS 공격을 더 효과적으로 할려면 로그인 / 회원가입 처럼 DB를 사용하는 (캐싱이 안되는)  
 곧으로 DDOS 공격을 하면 더 효율적이다.
 
+### 📜 XSS 를 사용한 DDOS 공격
+대표적으로 트래픽이 많은 사이트 (구글, 네이버) 같은 곳에 XSS 해킹을 하여  
+다른 사이트에 자바스크립트를 사용하여 요청을 보내는 것이다.
+
+```js
+const xmlHttp = new XMLHttpRequest();
+xmlHttp.open('GET', 'https://~~', false); // false for synchronous request
+xmlHttp.send(null);
+```
+
 ### 🛡 DOS 공격 대응법
 도스 공격은 간단하다. 한 아이피가 비정상적으로 요청을 많이 할때 도스 공격을 의심해보고 차단하면 된다.
