@@ -21,7 +21,7 @@
 ## Hacking
 
 * [DDOS - 디도스 공격](https://github.com/cjaewon/TIL/blob/master/Hacking/ddos.md)
-* [BOTNET - 봇넷](https://github.com/cjaewon/TIL/blob/Hacking/botnet.md)
+* [BOTNET - 봇넷](https://github.com/cjaewon/TIL/blob/master/Hacking/botnet.md)
 
 ## Tool
 
