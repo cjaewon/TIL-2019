@@ -60,6 +60,8 @@ Github, 아마존, 트위터 등에 잠시동안 접속 오류가 발생했다.
 
 [더 알아보기](http://wiki.hash.kr/index.php/%EB%AF%B8%EB%9D%BC%EC%9D%B4_%EB%B4%87%EB%84%B7)
 
+[미라이 봇넷 분석](https://hacktagon.github.io/iot/persu/IoT_botnet_analysis)
+
 ### 🤔 봇넷 설계에 대한 생각
 봇넷을 효율적으로 할려면 **다중 서버 네트워크 토폴로지**도 좋은 것 같지만 추적을  
 회피하기 위해서는 **계층식 네트워크 토폴로지**가 더 나은 것 같다.
