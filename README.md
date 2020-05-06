@@ -17,7 +17,7 @@
 ## Go
 
 * [Performance - 고언어 속도 및 최적화](https://github.com/cjaewon/TIL/blob/master/go/performance.md)
-
+* [Mutex - 동기화](https://github.com/cjaewon/TIL/blob/master/go/performance.md)
 ## Hacking
 
 * [DDOS - 디도스 공격](https://github.com/cjaewon/TIL/blob/master/Hacking/ddos.md)
