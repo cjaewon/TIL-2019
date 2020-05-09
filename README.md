@@ -2,8 +2,9 @@
 📅 매일마다 배운 거나 알게된 것을 글로 정리
 
 ## JavaScript
-
 * [Canvas - 사용법과 팁](https://github.com/cjaewon/TIL/blob/master/JavaScript/canvas.md)
+* [React.js](https://github.com/cjaewon/TIL/blob/master/JavaScript/React)
+  * [redux 리덕스 사용법 및 정리](https://github.com/cjaewon/TIL/blob/master/JavaScript/React/redux.md)
 
 ## TypeScript
 
