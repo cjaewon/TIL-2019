@@ -1,20 +1,8 @@
 # TIL ( Today I Learned )
 📅 매일마다 배운 거나 알게된 것을 글로 정리
 
-## JavaScript
-* [Canvas - 사용법과 팁](https://github.com/cjaewon/TIL/blob/master/JavaScript/canvas.md)
-* [React.js](https://github.com/cjaewon/TIL/blob/master/JavaScript/React)
-  * [redux 리덕스 사용법 및 정리](https://github.com/cjaewon/TIL/blob/master/JavaScript/React/redux.md)
-
-## TypeScript
-
-* [D.TS - 작성법 정리](https://github.com/cjaewon/TIL/blob/master/TypeScript/d.ts.md)
-
-## Node 
-
-* [Serverless - 사용법과 활용](https://github.com/cjaewon/TIL/blob/master/Node/serverless.md)
-* [WebSocket](https://github.com/cjaewon/TIL/blob/master/Node/websocket.md)
-* [Cluster - 노드 클러스터](https://github.com/cjaewon/TIL/blob/master/Node/cluster.md)
+## Algorithm
+* [Binary - 이진법](https://github.com/cjaewon/TIL/blob/master/Algorithm/Binary.md)
 
 ## Go
 
@@ -26,7 +14,23 @@
 * [DDOS - 디도스 공격](https://github.com/cjaewon/TIL/blob/master/Hacking/ddos.md)
 * [BOTNET - 봇넷](https://github.com/cjaewon/TIL/blob/master/Hacking/botnet.md)
 
+## JavaScript
+
+* [Canvas - 사용법과 팁](https://github.com/cjaewon/TIL/blob/master/JavaScript/canvas.md)
+* [React.js](https://github.com/cjaewon/TIL/blob/master/JavaScript/React)
+  * [redux 리덕스 사용법 및 정리](https://github.com/cjaewon/TIL/blob/master/JavaScript/React/redux.md)
+
+## Node 
+
+* [Serverless - 사용법과 활용](https://github.com/cjaewon/TIL/blob/master/Node/serverless.md)
+* [WebSocket](https://github.com/cjaewon/TIL/blob/master/Node/websocket.md)
+* [Cluster - 노드 클러스터](https://github.com/cjaewon/TIL/blob/master/Node/cluster.md)
+
 ## Tool
 
 * [Git - 명령어 및 사용법 정리](https://github.com/cjaewon/TIL/blob/master/Tool/git.md)
 * [ChromeDevTool - 크롬 개발자 도구 활용법과 팁](https://github.com/cjaewon/TIL/blob/master/Tool/chromeDevTool.md)
+
+## TypeScript
+
+* [D.TS - 작성법 정리](https://github.com/cjaewon/TIL/blob/master/TypeScript/d.ts.md)
