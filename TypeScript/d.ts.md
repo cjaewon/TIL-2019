@@ -47,3 +47,6 @@ const a = new asdf();
 
 a.helloworld()
 ```
+
+### 😇 tsconfig.json types
+tsconfig를 사용해서 커스텀 타입을 가져올 때 `index.d.ts`가 있어야 vsc 가 인식한다.
