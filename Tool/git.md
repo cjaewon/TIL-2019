@@ -62,6 +62,17 @@
 `git rebase`
 
 
+### 🏷️ git tag (버전 관리)
+버전 관리는 주로 git tag를 많이 사용한다.
+
+`git tag v1.0.0` - git tag를 생성한다  
+`git push origin v1.0.0` - git tag를 원격 저장소에 올린다  
+
+`git tag` - 를 입력하면 만든 tag 들을 확인 할 수 있다.
+
+`git tag -d v1.0.0`
+만든 git tag를 삭제해야 할 경우가 있는데 `-d` 옵션을 붙여서 제거 할 수 있다.
+원격저장소에 올리는 방법은 `git push --delete origin v1.0.0` 라고 작성하면 된다.
 
 ### 😞 깃무시 ? .gitignore
 
