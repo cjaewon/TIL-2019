@@ -1,6 +1,9 @@
 # TIL ( Today I Learned )
 📅 매일마다 배운 거나 알게된 것을 글로 정리
 
+## Web
+* [CORS - 설명 및 오류 해결법](https://github.com/cjaewon/TIL/blob/master/web/cors.md)
+
 ## Algorithm
 * [Binary - 이진법](https://github.com/cjaewon/TIL/blob/master/Algorithm/Binary.md)
 * [Queue - 큐](https://github.com/cjaewon/TIL/blob/master/Algorithm/Queue.md)
