@@ -6,3 +6,5 @@
 ### ⚠️ Axios withCertificate CORS 오류
 만약 Axios 에서 withCertificate 을 true 로 한다면 cors 에서 주소를 `*`  
 가 아닌 localhost:8000 같이 정확하게 적어나야 한다.
+
+백엔드 또한 Credentials 설정을 해주어야 한다.
